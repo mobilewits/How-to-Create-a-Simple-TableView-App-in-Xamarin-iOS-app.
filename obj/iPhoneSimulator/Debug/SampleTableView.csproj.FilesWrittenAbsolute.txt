@@ -1,0 +1,36 @@
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/bin/iPhoneSimulator/Debug/SampleTableView.exe.mdb
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/bin/iPhoneSimulator/Debug/SampleTableView.exe
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/SampleTableView.exe
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/SampleTableView.exe.mdb
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/bin/iPhoneSimulator/Debug/SampleTableView.exe.mdb
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/bin/iPhoneSimulator/Debug/SampleTableView.exe
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/SampleTableView.exe
+/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/SampleTableView.exe.mdb
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/bin/iPhoneSimulator/Debug/SampleTableView.exe.mdb
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/bin/iPhoneSimulator/Debug/SampleTableView.exe
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/SampleTableView.exe
+/Volumes/HP V215B/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/SampleTableView.exe.mdb

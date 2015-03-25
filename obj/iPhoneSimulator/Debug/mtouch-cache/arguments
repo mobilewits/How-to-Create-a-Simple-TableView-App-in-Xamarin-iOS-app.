@@ -1,0 +1,29 @@
+# Version: 8.8.0.2 (ccfcd59)
+# [first argument, ignore] # /Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.8.0.2/bin/mtouch-64 \
+	--cache \
+	/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/bin/iPhoneSimulator/Debug/SampleTableView.app \
+	--executable \
+	SampleTableView \
+	--debug \
+	--nolink \
+	--sdkroot \
+	"/Users/Harry/Software/xcode 6.1.1/Xcode 6.1.1.app/Contents/Developer" \
+	--sdk \
+	8.1 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/Harry/Desktop/Live/IOS/SampleTableView/SampleTableView/bin/iPhoneSimulator/Debug//SampleTableView.exe \

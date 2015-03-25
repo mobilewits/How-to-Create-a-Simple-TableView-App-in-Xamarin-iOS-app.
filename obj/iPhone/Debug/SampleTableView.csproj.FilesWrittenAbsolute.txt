@@ -1,0 +1,12 @@
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/actool/partial-info.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/bin/iPhone/Debug/SampleTableView.exe.mdb
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/bin/iPhone/Debug/SampleTableView.exe
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/SampleTableView.exe
+/Users/harry/Desktop/Xamarin Tutorials MJ/SampleTableView/SampleTableView/obj/iPhone/Debug/SampleTableView.exe.mdb
